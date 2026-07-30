@@ -1,4 +1,34 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sneha
+
+> *"You don't need to be perfect to start. Just start to become perfect."* 🌱
+
+🌱 I'm learning Computer Science and building my skills one step at a time.
+
+## 🚀 Interests
+
+- 🤖 Artificial Intelligence
+- 💻 Software Development
+- 🌐 Full Stack Development
+- 🎓 Education Technology
+- ⚖️ Law & Technology
+- 👩 Girls' Education & Rights
+
+## ❤️ Beyond Coding
+
+- 🎤 Singing
+- 📝 Poetry
+- 👩‍🏫 Teaching
+- 🌿 Spirituality
+
+## 🌍 My Goal
+
+I love learning, building, and solving real-world problems through technology.
+
+I hope to create tools that make education more accessible and help people live better lives.
+
+---
+
+> **Learn with curiosity. Build with purpose. Solve with kindness. 💙**
 
 <!--
 **Sneha2026-code/Sneha2026-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
