@@ -2,7 +2,7 @@
 
 > *"You don't need to be perfect to start. Just start to become perfect."* 🌱
 
-🌱 I'm learning Computer Science and building my skills one step at a time.
+🌱 Learning every day with curiosity, consistency, and purpose.
 
 ## 🚀 Interests
 
